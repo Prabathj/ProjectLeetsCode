@@ -10,7 +10,7 @@ public class ArrayListSample {
 
 	public static void main(String[] args) {
 		
-		
+		//Sample for
 		
 		List<Integer> list=new ArrayList<>();
 		list.add(10);
