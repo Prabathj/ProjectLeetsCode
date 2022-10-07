@@ -11,6 +11,7 @@ public class ArrayListSample {
 	public static void main(String[] args) {
 		
 		//feature_linked_lst_v1
+		//new comment for feature_linked_list
 		
 		List<Integer> list=new ArrayList<>();
 		list.add(10);
